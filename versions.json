@@ -1,0 +1,27 @@
+{
+  "java" : {
+    "latestVersion" : 15.0,
+    "downloadUrl" : "link"
+  },
+  "xcode" : {
+    "latestVersion" : 12.3,
+    "downloadUrl" : "link"
+  },
+  "appium" : {
+    "latestVersion" : 1.20,
+    "downloadUrl" : "link",
+    "latestSupportForXcode": 12.3
+  },
+  "adb" : {
+    "latestVersion" : 30.0,
+    "downloadUrl" : "link"
+  },
+  "carthage" : {
+    "latestVersion" : 0.36,
+    "downloadUurl" : "link"
+  },
+  "ios-deploy" : {
+    "latestVersion" : 1.11,
+    "downloadUurl" : "link"
+  }
+}
