@@ -1,20 +1,24 @@
 {
   "java" : {
     "latestVersion" : "15",
-    "downloadUrl" : "link"
+    "downloadUrl" : "http://testmore.static.invio.com/Java.dmg"
   },
   "xcode" : {
     "latestVersion" : "12.3",
-    "downloadUrl" : "link"
+    "downloadUrl" : "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
   },
   "appium" : {
     "latestVersion" : "1.20.0",
-    "downloadUrl" : "link",
+    "command" : "sudo npm install -g appium@1.20.0 --unsafe-perm=true --allow-root",
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
     "latestVersion" : "30.0",
-    "downloadUrl" : "link"
+    "downloadUrl" :  {
+      "mac": "",
+      "linux": "",
+      "windows": ""
+    }
   },
   "carthage" : {
     "latestVersion" : "0.36.0",
