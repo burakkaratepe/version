@@ -9,7 +9,9 @@
   },
   "appium" : {
     "latestVersion" : "1.20.0",
-    "command" : "sudo npm install -g appium@1.20.0 --unsafe-perm=true --allow-root",
+    "installationCommands": {
+            "common": "sudo npm install -g appium@1.20.0 --unsafe-perm=true --allow-root" 
+        },
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
