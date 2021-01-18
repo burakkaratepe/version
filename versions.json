@@ -8,7 +8,7 @@
     "downloadUrl" : "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
   },
   "appium" : {
-    "latestVersion" : "1.20.0",
+    "latestVersion" : "1.18.0",
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
