@@ -12,12 +12,7 @@
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
-    "latestVersion" : "30.0",
-    "downloadUrl" :  {
-      "mac": "",
-      "linux": "",
-      "windows": ""
-    }
+    "latestVersion" : "30.0"
   },
   "carthage" : {
     "latestVersion" : "0.36.1",
