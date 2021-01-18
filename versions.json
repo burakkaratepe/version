@@ -12,7 +12,7 @@
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
-    "latestVersion" : "30.0.2"
+    "latestVersion" : "3.0.2"
   },
   "carthage" : {
     "latestVersion" : "0.36.1",
