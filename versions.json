@@ -12,14 +12,13 @@
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
-    "latestVersion" : "30.0"
+    "latestVersion" : "3.0.2"
   },
   "carthage" : {
     "latestVersion" : "0.36.1",
     "downloadUrl" : "https://github.com/Carthage/Carthage/releases/download/0.36.1/Carthage.pkg"
   },
   "ios-deploy" : {
-    "latestVersion" : "1.11",
-    "downloadUrl" : "link"
+    "latestVersion" : "1.11.3"
   }
 }
