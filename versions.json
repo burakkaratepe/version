@@ -1,6 +1,6 @@
 {
   "java" : {
-    "latestVersion" : "15",
+    "latestVersion" : "13.0.2",
     "downloadUrl" : "http://testmore.static.invio.com/Java.dmg"
   },
   "xcode" : {
