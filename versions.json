@@ -22,7 +22,7 @@
   "ios-deploy" : {
     "latestVersion" : "1.11.3"
   },
-  "testmore" : {
+  "test-script-executer" : {
     "latestVersion" : "147",
     "downloadUrl" : "http://testmore.static.invio.com/testmore.jar"
   }
