@@ -21,5 +21,9 @@
   },
   "ios-deploy" : {
     "latestVersion" : "1.11.3"
+  },
+  "testmore" : {
+    "latestVersion" : "147",
+    "downloadUrl" : "http://testmore.static.invio.com/testmore.jar"
   }
 }
