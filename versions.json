@@ -23,7 +23,7 @@
     "latestVersion" : "1.11.3"
   },
   "test-script-executer" : {
-    "latestVersion" : "159",
+    "latestVersion" : "169",
     "downloadUrl" : "http://testmore.static.invio.com/build/testmore.jar"
   }
 }
