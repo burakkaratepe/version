@@ -4,7 +4,7 @@
     "downloadUrl" : "http://testmore.static.invio.com/Java.dmg"
   },
   "xcode" : {
-    "latestVersion" : "12.3",
+    "latestVersion" : "Xcode 12.0",
     "downloadUrl" : "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
   },
   "appium" : {
