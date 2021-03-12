@@ -1,7 +1,11 @@
 {
   "java" : {
     "latestVersion" : "13.0.2",
-    "downloadUrl" : "http://testmore.static.invio.com/Java.dmg"
+    "downloadUrl" : {
+      "mac": "http://testmore.static.invio.com/Java.dmg",
+      "linux": "http://testmore.static.invio.com/Java.rpm",
+      "windows": "http://testmore.static.invio.com/Java.zip"
+    }
   },
   "xcode" : {
     "latestVersion" : "12.3",
