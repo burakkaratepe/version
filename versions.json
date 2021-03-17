@@ -16,8 +16,12 @@
     "latestSupportForXcode": "12.3"
   },
   "adb" : {
-    "latestVersion" : "30",
-    "npmVersion": "1.0.4"
+    "latestVersion" : "31",
+    "downloadUrl" : {
+      "mac": "http://testmore.static.invio.com/os/darwin.zip",
+      "linux": "http://testmore.static.invio.com/os/linux.zip",
+      "windows": "http://testmore.static.invio.com/os/win32.zip"
+    }
   },
   "carthage" : {
     "latestVersion" : "0.36.1",
