@@ -2,9 +2,9 @@
   "java" : {
     "latestVersion" : "13.0.2",
     "downloadUrl" : {
-      "mac": "http://testmore.static.invio.com/Java.dmg",
-      "linux": "http://testmore.static.invio.com/Java.rpm",
-      "windows": "http://testmore.static.invio.com/Java.zip"
+      "mac": "http://testmore.static.invio.com/os/Java.dmg",
+      "linux": "http://testmore.static.invio.com/os/Java.rpm",
+      "windows": "http://testmore.static.invio.com/os/Java.zip"
     }
   },
   "xcode" : {
