@@ -1,37 +1,53 @@
 {
-  "java" : {
-    "latestVersion" : "13.0.2",
-    "downloadUrl" : {
-      "mac": "http://testmore.static.invio.com/os/Java.dmg",
-      "linux": "http://testmore.static.invio.com/os/Java.rpm",
-      "windows": "http://testmore.static.invio.com/os/Java.zip"
+  "DEPENDENCIES": {
+    "java": {
+      "latestVersion": "13.0.2",
+      "downloadUrl": {
+        "mac": "http://testmore.static.invio.com/os/Java.dmg",
+        "linux": "http://testmore.static.invio.com/os/Java.rpm",
+        "windows": "http://testmore.static.invio.com/os/Java.zip"
+      }
+    },
+    "xcode": {
+      "latestVersion": "12.3",
+      "downloadUrl": "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
+    },
+    "appium": {
+      "latestVersion": "1.21.0",
+      "latestSupportForXcode": "12.3"
+    },
+    "adb": {
+      "latestVersion": "31",
+      "downloadUrl": {
+        "mac": "http://testmore.static.invio.com/os/darwin.zip",
+        "linux": "http://testmore.static.invio.com/os/linux.zip",
+        "windows": "http://testmore.static.invio.com/os/win32.zip"
+      }
+    },
+    "carthage": {
+      "latestVersion": "0.36.1",
+      "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
+    },
+    "ios-deploy": {
+      "latestVersion": "1.11.3"
+    },
+    "test-script-executer": {
+      "latestVersion": "169",
+      "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     }
   },
-  "xcode" : {
-    "latestVersion" : "12.3",
-    "downloadUrl" : "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
-  },
-  "appium" : {
-    "latestVersion" : "1.21.0",
-    "latestSupportForXcode": "12.3"
-  },
-  "adb" : {
-    "latestVersion" : "31",
-    "downloadUrl" : {
-      "mac": "http://testmore.static.invio.com/os/darwin.zip",
-      "linux": "http://testmore.static.invio.com/os/linux.zip",
-      "windows": "http://testmore.static.invio.com/os/win32.zip"
+  "SUPPORT": {
+    "documentation": {
+      "name": "Documentation",
+      "url": "http://dev.testmore.io/documentation/"
+    },
+    "support": {
+      "name": "Support",
+      "url": "http://dev.testmore.io/support/"
+    },
+    "faq": {
+      "name": "FAQ",
+      "url": "http://dev.testmore.io/faq/"
     }
-  },
-  "carthage" : {
-    "latestVersion" : "0.36.1",
-    "downloadUrl" : "http://testmore.static.invio.com/Carthage.pkg"
-  },
-  "ios-deploy" : {
-    "latestVersion" : "1.11.3"
-  },
-  "test-script-executer" : {
-    "latestVersion" : "169",
-    "downloadUrl" : "http://testmore.static.invio.com/build/testmore.jar"
   }
 }
