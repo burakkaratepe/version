@@ -51,6 +51,11 @@
       "name": "FAQ",
       "url": "http://dev.testmore.io/faq/",
       "bootstrapIcon": "la-desktop"
+    },
+    "abc": {
+      "name": "ABC",
+      "url": "http://dev.testmore.io/",
+      "bootstrapIcon": "la-desktop"
     }
   }
 }
