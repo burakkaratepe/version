@@ -39,15 +39,18 @@
   "SUPPORT": {
     "documentation": {
       "name": "Documentation",
-      "url": "http://dev.testmore.io/documentation/"
+      "url": "http://dev.testmore.io/documentation/",
+      "bootstrapIcon": "la-file-text-o"
     },
     "support": {
       "name": "Support",
-      "url": "http://dev.testmore.io/support/"
+      "url": "http://dev.testmore.io/support/",
+      "bootstrapIcon": "la-envelope-o"
     },
     "faq": {
       "name": "FAQ",
-      "url": "http://dev.testmore.io/faq/"
+      "url": "http://dev.testmore.io/faq/",
+      "bootstrapIcon": "la-desktop"
     }
   }
 }
