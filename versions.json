@@ -25,8 +25,8 @@
       }
     },
     "carthage": {
-      "latestVersion": "0.36.1",
-      "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
+      "latestVersion": "0.38.0",
+      "downloadUrl": "https://github.com/Carthage/Carthage/releases/download/0.38.0/Carthage.pkg"
     },
     "ios-deploy": {
       "latestVersion": "1.11.4"
