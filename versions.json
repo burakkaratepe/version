@@ -29,7 +29,7 @@
       "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
     },
     "ios-deploy": {
-      "latestVersion": "1.11.3"
+      "latestVersion": "1.11.4"
     },
     "test-script-executer": {
       "latestVersion": "197",
