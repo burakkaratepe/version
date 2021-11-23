@@ -36,7 +36,7 @@
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     }
   },
-  "_SUPPORT": {
+  "SUPPORT": {
     "documentation": {
       "name": "Documentation",
       "url": "http://dev.testmore.io/documention/",
