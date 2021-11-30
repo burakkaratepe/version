@@ -1,7 +1,7 @@
 {
   "DEPENDENCIES": {
     "java": {
-      "latestVersion": "13.0.2",
+      "latestVersion": "13.0.5",
       "downloadUrl": {
         "mac": "http://testmore.static.invio.com/os/Java.dmg",
         "linux": "http://testmore.static.invio.com/os/Java.rpm",
