@@ -1,0 +1,56 @@
+{
+  "DEPENDENCIES": {
+    "java": {
+      "latestVersion": "13.0.2",
+      "downloadUrl": {
+        "mac": "http://testmore.static.invio.com/os/Java.dmg",
+        "linux": "http://testmore.static.invio.com/os/Java.rpm",
+        "windows": "http://testmore.static.invio.com/os/Java.zip"
+      }
+    },
+    "xcode": {
+      "latestVersion": "13.1",
+      "downloadUrl": "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
+    },
+    "appium": {
+      "latestVersion": "1.22.0",
+      "latestSupportForXcode": "13.1"
+    },
+    "adb": {
+      "latestVersion": "31",
+      "downloadUrl": {
+        "mac": "http://testmore.static.invio.com/os/darwin.zip",
+        "linux": "http://testmore.static.invio.com/os/linux.zip",
+        "windows": "http://testmore.static.invio.com/os/win32.zip"
+      }
+    },
+    "carthage": {
+      "latestVersion": "0.38.0",
+      "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
+    },
+    "ios-deploy": {
+      "latestVersion": "1.11.4"
+    },
+    "test-script-executer": {
+      "latestVersion": "197",
+      "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
+    }
+  },
+  "_SUPPORT": {
+    "documentation": {
+      "name": "Documentation",
+      "url": "http://dev.testmore.io/documention/",
+      "bootstrapIcon": "la-file-text-o"
+    },
+    "support": {
+      "name": "Support",
+      "url": "http://dev.testmore.io/support/",
+      "bootstrapIcon": "la-envelope-o"
+    },
+    "faq": {
+      "name": "FAQ",
+      "url": "http://dev.testmore.io/faq/",
+      "bootstrapIcon": "la-desktop"
+    }
+  }
+}
