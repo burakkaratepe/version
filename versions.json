@@ -32,7 +32,7 @@
       "latestVersion": "1.11.4"
     },
     "test-script-executer": {
-      "latestVersion": "226",
+      "latestVersion": "227",
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     }
   },
