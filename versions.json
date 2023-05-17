@@ -14,7 +14,8 @@
     },
     "appium": {
       "latestVersion": "next",
-      "latestSupportForXcode": "13.1"
+      "latestSupportForXcode": "13.1",
+      "latestStable": "1.22.2"
     },
     "adb": {
       "latestVersion": "31",
