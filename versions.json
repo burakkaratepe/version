@@ -15,7 +15,17 @@
     "appium": {
       "latestVersion": "1.22.2",
       "latestSupportForXcode": "13.1",
-      "latestStable": "1.22.2"
+      "latestStable": "1.22.2",
+      "drivers": [
+        {
+          "driverName": "xcuitest",
+          "latestVersion": "4.33.1"
+        },
+        {
+          "driverName": "uiautomator2",
+          "latestVersion": "2.29.3"
+        }
+      ]
     },
     "adb": {
       "latestVersion": "31",
