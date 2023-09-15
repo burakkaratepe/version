@@ -12,21 +12,6 @@
       "latestVersion": "13.3.1",
       "downloadUrl": "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
     },
-    "appium": {
-      "latestVersion": "1.22.2",
-      "latestSupportForXcode": "13.1",
-      "latestStable": "1.22.2",
-      "drivers": [
-        {
-          "driverName": "xcuitest",
-          "latestVersion": "4.33.1"
-        },
-        {
-          "driverName": "uiautomator2",
-          "latestVersion": "2.29.3"
-        }
-      ]
-    },
     "adb": {
       "latestVersion": "31",
       "downloadUrl": {
