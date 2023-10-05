@@ -28,7 +28,7 @@
       "latestVersion": "1.11.4"
     },
     "test-script-executer": {
-      "latestVersion": "233",
+      "latestVersion": "234",
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     },
     "xcuitest driver": {
