@@ -24,18 +24,9 @@
       "latestVersion": "0.38.0",
       "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
     },
-    "ios-deploy": {
-      "latestVersion": "1.11.4"
-    },
     "test-script-executer": {
       "latestVersion": "234",
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
-    },
-    "xcuitest driver": {
-      "latestVersion": "4.32.24"
-    },
-    "uiautomator2 driver": {
-      "latestVersion": "2.29.3"
     }
   },
   "_SUPPORT": {
