@@ -25,7 +25,7 @@
       "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
     },
     "test-script-executer": {
-      "latestVersion": "245",
+      "latestVersion": "246",
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     }
   },
