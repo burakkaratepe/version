@@ -9,7 +9,7 @@
       }
     },
     "xcode": {
-      "latestVersion": "16.0",
+      "latestVersion": "16.2",
       "downloadUrl": "itms-apps://itunes.apple.com/app/apple-store/id497799835?mt=12"
     },
     "adb": {
@@ -25,7 +25,7 @@
       "downloadUrl": "http://testmore.static.invio.com/Carthage.pkg"
     },
     "test-script-executer": {
-      "latestVersion": "248",
+      "latestVersion": "249",
       "downloadUrl": "http://testmore.static.invio.com/build/testmore.jar"
     }
   },
